@@ -1,0 +1,9 @@
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\bin\Debug\netcoreapp1.1\HarambeeDevOpsProject.deps.json
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\bin\Debug\netcoreapp1.1\HarambeeDevOpsProject.runtimeconfig.json
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\bin\Debug\netcoreapp1.1\HarambeeDevOpsProject.runtimeconfig.dev.json
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\bin\Debug\netcoreapp1.1\HarambeeDevOpsProject.dll
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\bin\Debug\netcoreapp1.1\HarambeeDevOpsProject.pdb
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\obj\Debug\netcoreapp1.1\HarambeeDevOpsProject.csprojResolveAssemblyReference.cache
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\obj\Debug\netcoreapp1.1\HarambeeDevOpsProject.AssemblyInfo.cs
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\obj\Debug\netcoreapp1.1\HarambeeDevOpsProject.dll
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOpsProject\obj\Debug\netcoreapp1.1\HarambeeDevOpsProject.pdb
