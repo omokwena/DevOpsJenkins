@@ -1,0 +1,20 @@
+version: '2'
+
+services:
+  harambeedevopsproject:
+    image: harambeedevopsproject
+    build:
+      context: ./HarambeeDevOpsProject
+      dockerfile: Dockerfile
+
+  harambeedevopsapi:
+    image: harambeedevopsapi
+    build:
+      context: ./HarambeeDevOpsAPI
+      dockerfile: Dockerfile
+
+  harambeedevops.api:
+    image: harambeedevops.api
+    build:
+      context: ./HarambeeDevOps.API
+      dockerfile: Dockerfile

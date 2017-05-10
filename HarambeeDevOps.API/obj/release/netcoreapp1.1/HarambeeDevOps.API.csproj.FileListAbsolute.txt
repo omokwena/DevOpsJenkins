@@ -1,0 +1,8 @@
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\bin\release\netcoreapp1.1\HarambeeDevOps.API.deps.json
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\bin\release\netcoreapp1.1\HarambeeDevOps.API.runtimeconfig.json
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\bin\release\netcoreapp1.1\HarambeeDevOps.API.runtimeconfig.dev.json
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\bin\release\netcoreapp1.1\HarambeeDevOps.API.dll
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\bin\release\netcoreapp1.1\HarambeeDevOps.API.pdb
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\obj\release\netcoreapp1.1\HarambeeDevOps.API.AssemblyInfo.cs
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\obj\release\netcoreapp1.1\HarambeeDevOps.API.dll
+C:\Users\omokwena\Source\Repos\DevOpsJenkins\HarambeeDevOps.API\obj\release\netcoreapp1.1\HarambeeDevOps.API.pdb

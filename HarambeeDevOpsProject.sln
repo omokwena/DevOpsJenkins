@@ -5,6 +5,20 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarambeeDevOpsProject", "HarambeeDevOpsProject\HarambeeDevOpsProject.csproj", "{359AB617-8B75-49FE-83D3-0D3D89B83FE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarambeeDevOps.API", "HarambeeDevOps.API\HarambeeDevOps.API.csproj", "{467BB6D7-5FB4-4AC6-B34E-D4109E386DB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{489D2A23-5E91-440F-9E14-E7A498508502}"
+	ProjectSection(SolutionItems) = preProject
+		HarambeeDevOps.API\.dockerignore = HarambeeDevOps.API\.dockerignore
+		HarambeeDevOps.API\Dockerfile = HarambeeDevOps.API\Dockerfile
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Website", "Website", "{C35C6AE8-E19F-4AA5-A8DB-7C2801C3EC82}"
+	ProjectSection(SolutionItems) = preProject
+		HarambeeDevOpsProject\.dockerignore = HarambeeDevOpsProject\.dockerignore
+		HarambeeDevOpsProject\Dockerfile = HarambeeDevOpsProject\Dockerfile
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +29,16 @@ Global
 		{359AB617-8B75-49FE-83D3-0D3D89B83FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{359AB617-8B75-49FE-83D3-0D3D89B83FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{359AB617-8B75-49FE-83D3-0D3D89B83FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467BB6D7-5FB4-4AC6-B34E-D4109E386DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467BB6D7-5FB4-4AC6-B34E-D4109E386DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467BB6D7-5FB4-4AC6-B34E-D4109E386DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467BB6D7-5FB4-4AC6-B34E-D4109E386DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{359AB617-8B75-49FE-83D3-0D3D89B83FE9} = {C35C6AE8-E19F-4AA5-A8DB-7C2801C3EC82}
+		{467BB6D7-5FB4-4AC6-B34E-D4109E386DB4} = {489D2A23-5E91-440F-9E14-E7A498508502}
 	EndGlobalSection
 EndGlobal
